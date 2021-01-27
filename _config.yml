@@ -6,6 +6,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.google.com">More</a> 
   
-theme: jekyll-theme-minimal
+theme: jekyll-theme-leap-day
 #theme: jekyll-theme-hacker
 #google_analytics: UA-000000-0 # your Google Analytics tracking ID here
